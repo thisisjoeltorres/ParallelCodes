@@ -1,0 +1,40 @@
+{
+  "job_id": "Local",
+  "nodes": "localhost",
+  "processes": 4,
+  "total_sum": 7999998000000,
+  "details": [
+    {
+      "rank": 0,
+      "node": "localhost",
+      "local_sum": 499999500000,
+      "cpu_usage": "0.00%",
+      "mem_usage_MB": 22.06,
+      "elapsed_s": 0.0551
+    },
+    {
+      "rank": 1,
+      "node": "localhost",
+      "local_sum": 1499999500000,
+      "cpu_usage": "0.00%",
+      "mem_usage_MB": 21.8,
+      "elapsed_s": 0.0528
+    },
+    {
+      "rank": 2,
+      "node": "localhost",
+      "local_sum": 2499999500000,
+      "cpu_usage": "0.00%",
+      "mem_usage_MB": 21.83,
+      "elapsed_s": 0.0529
+    },
+    {
+      "rank": 3,
+      "node": "localhost",
+      "local_sum": 3499999500000,
+      "cpu_usage": "0.00%",
+      "mem_usage_MB": 22.16,
+      "elapsed_s": 0.0548
+    }
+  ]
+}
